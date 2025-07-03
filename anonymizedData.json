@@ -1,0 +1,56 @@
+[
+  {
+    "CustomerID": "C001",
+    "FullName": "U",
+    "Email": "m@example.com",
+    "PhoneNumber": "01",
+    "City": "abc",
+    "FeedbackText": "Loved the product quality!",
+    "PurchaseAmount": 1250
+  },
+  {
+    "CustomerID": "C006",
+    "FullName": "W",
+    "Email": "r@example.com",
+    "PhoneNumber": "02",
+    "City": "abc",
+    "FeedbackText": "Loved the product quality!",
+    "PurchaseAmount": 1250
+  },
+  {
+    "CustomerID": "C002",
+    "FullName": "L",
+    "Email": "i@example.com",
+    "PhoneNumber": "03",
+    "City": "abc",
+    "FeedbackText": "Delivery was a bit late but support was great.",
+    "PurchaseAmount": 980
+  },
+  {
+    "CustomerID": "C003",
+    "FullName": "R",
+    "Email": "l@example.com",
+    "PhoneNumber": "04",
+    "City": "abc",
+    "FeedbackText": "Excellent customer service!",
+    "PurchaseAmount": 1530
+  },
+  {
+    "CustomerID": "C004",
+    "FullName": "M",
+    "Email": "x@example.com",
+    "PhoneNumber": "05",
+    "City": "abc",
+    "FeedbackText": "Product not as expected, requested return.",
+    "PurchaseAmount": 760
+  },
+  {
+    "CustomerID": "C005",
+    "FullName": "J",
+    "Email": "w@example.com",
+    "PhoneNumber": "06",
+    "City": "abc",
+    "FeedbackText": "Happy with the overall experience.",
+    "PurchaseAmount": 1420
+  }
+]
